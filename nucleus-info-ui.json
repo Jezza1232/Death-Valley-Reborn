@@ -81,7 +81,8 @@
                         {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_VerticalBox_v1.DU_Panel_VerticalBox_v1_C",
                             "Props": {
-                                "Fill": 1
+                                "StaticPath": "/PA_EVO_Pack_03/Dinos/EVO_Therizino/Paleo/EVO_Paleo_Therizino_Character_BP.EVO_Paleo_Therizino_Character_BP_C",
+								"Fill": 1
                             },
                             "UIItems": [
                                 {
