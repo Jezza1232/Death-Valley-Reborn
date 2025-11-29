@@ -556,7 +556,7 @@
                     {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                         "Props": {
-                            "Text": "The Question and Answers are just an example until replaced by an admin with their own.",
+                            "Text": "Welcome To Death-Valley Reborn Here Are Some FAQ's.",
                             "FontSize": 22,
                             "Justification": "Center",
                             "Color": [
@@ -631,7 +631,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "A: We aim to provide a stable and enjoyable gaming environment, so server wipes are infrequent. However, wipes may occur during major game updates or if necessary for maintenance purposes. We will notify players in advance if a wipe is scheduled.",
+                                    "Text": "A: We aim to provide a stable and enjoyable gaming environment, but server wipes are never normal here. However, if necessary for maintenance or other purposes its not off the table. We will notify players in advance if a wipe is scheduled.",
                                     "FontSize": 12,
                                     "Padding": [
                                         5,
@@ -683,7 +683,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "A: If you encounter a player violating server rules, please report them to one of our moderators or admins. You can do this through the in-game chat, Discord server, or by using the \"SURVIVORS HUB\" on the left side menu. Be sure to provide as much detail as possible, including the player's name and a description of the incident.",
+                                    "Text": "A: If you encounter a player violating server rules, please report them to one of our moderators or admins. You can do this through our Discord server, Be sure to provide as much detail as possible, including the player's name and a description of the incident.",
                                     "FontSize": 12,
                                     "Padding": [
                                         5,
@@ -761,7 +761,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "A: Absolutely! We value feedback from our community and are always open to suggestions for improving the server experience. Whether it's a mod recommendation, gameplay adjustment, or general feedback, we encourage players to share their ideas with us through our Discord server or other communication channels.",
+                                    "Text": "A: Absolutely! We value feedback from our community and are always open to suggestions for improving the server experience. Whether it's a mod recommendation, gameplay adjustment, or general feedback, we encourage players to share their ideas with us through our Discord server.",
                                     "FontSize": 12,
                                     "Padding": [
                                         5,
@@ -836,7 +836,7 @@
                     {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                         "Props": {
-                            "Text": "THIS IS A DEMO PAGE!!!",
+                            "Text": "Death-Valley Cluster Rules!!!",
                             "FontSize": 24,
                             "Justification": "Center",
                             "Color": [
@@ -855,7 +855,7 @@
                     {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                         "Props": {
-                            "Text": "The listed Ruels and Guids are just an example until replaced by an admin with their own.",
+                            "Text": "The listed Rules and Guids are just some of few listed on discord.",
                             "FontSize": 22,
                             "Justification": "Center",
                             "Color": [
@@ -904,7 +904,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "2. Base Raiding: While PvP is encouraged, senseless destruction is not. Raiding is allowed, but don't wipe out entire bases. Leave something for your opponents to rebuild with.",
+                                    "Text": "2. Base Raiding: While PvP is encouraged, senseless destruction is not. Raiding is allowed by discord request ONLY, don't wipe out entire bases. Leave something for your opponents to rebuild with.",
                                     "FontSize": 14,
                                     "Padding": [
                                         5,
@@ -930,7 +930,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "4. Building Limits: Keep your structures reasonable in size to maintain server performance. Excessive building or pillar spamming is not allowed.",
+                                    "Text": "4. Building Limits: Keep your pillars in your base zone to maintain server performance. pillar spamming of any kind is not allowed.",
                                     "FontSize": 14,
                                     "Padding": [
                                         5,
@@ -943,7 +943,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "5. Wildlife Conservation: Avoid unnecessary killing of passive tames and wildlife. Let's strive for ecological balance on the Ark.",
+                                    "Text": "5. Death-Valley ASE used to have player build buildings so grate it looked like a small city, rebuild your city with everyone.",
                                     "FontSize": 14,
                                     "Padding": [
                                         5,
@@ -956,7 +956,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "6. Roleplay Encouraged: Engage in immersive roleplay if that's your style! Whether you're a lone survivor, a tribal leader, or a dino tamer, bring your character to life.",
+                                    "Text": "6. Roleplay Encouraged: immersive yourself your style! your way! Whether you're a lone survivor, a tribal leader, or a dino tamer, bring your character to life.",
                                     "FontSize": 14,
                                     "Padding": [
                                         5,
@@ -969,7 +969,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "7. Community Events: Join in on server-wide events for a chance to earn rewards, make new friends, and test your skills against the challenges we throw your way.",
+                                    "Text": "7. Community Events: Join in on server-wide events for a chance to earn rewards, make new friends, and test your skills against the challenges Death-Valley will throw your way.",
                                     "FontSize": 14,
                                     "Padding": [
                                         5,
@@ -1008,7 +1008,7 @@
                     {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                         "Props": {
-                            "Text": "Greetings, Survivors! Step into a world of untamed wilderness, colossal dinosaurs, and epic adventures on our Ark: Survival Ascended game server.",
+                            "Text": "Greetings, Survivors! Step into a land like no other, a place to call home, a place to grow, a place to learn, epic death defying adventures....on this Ark: pros think twice.",
                             "FontSize": 15,
                             "Padding": [
                                 0,
@@ -1021,7 +1021,7 @@
                     {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                         "Props": {
-                            "Text": "We've created a thriving community where players can forge alliances, face formidable challenges, and build their own Jurassic legacy.",
+                            "Text": "This server lives on in loving memory of Grunt aka Richard quillerat, 1 man...6 strokes....90% blind....still became a raiding master crafter of the ice fortress.....The Beating Heart.",
                             "FontSize": 15,
                             "Padding": [
                                 0,
@@ -1204,7 +1204,7 @@
                                             {
                                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                                 "Props": {
-                                                    "Text": "This Border box has text and a Discord Button.",
+                                                    "Text": "Join Our Discord For All Info.",
                                                     "FontSize": 15,
                                                     "Padding": [
                                                         0,
