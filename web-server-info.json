@@ -67,7 +67,7 @@
                                             {
                                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                                 "Props": {
-                                                    "Text": "$$SERVER$:$WELCOME_TO_SERVER",
+                                                    "Text": "$$SERVER$:$WELCOME_TO_Death-Valley_Reborn",
                                                     "FontSize": 32,
                                                     "Padding": [
                                                         5,
@@ -1227,7 +1227,7 @@
                                                     ]
                                                 },
                                                 "OnClickEvent": {
-                                                    "Url": "https://discord.gg/"
+                                                    "Url": "https://discord.gg/8aeX4T9cp2"
                                                 }
                                             }
                                         ]
@@ -1521,7 +1521,7 @@
                                             "Image": "/Ark-Nucleus/SharedContent/Textures/Icons/T_Nucleus_DiscordLogo.T_Nucleus_DiscordLogo"
                                         },
                                         "OnClickEvent": {
-                                            "Url": "https://discord.gg/"
+                                            "Url": "https://discord.gg/8aeX4T9cp2"
                                         }
                                     }
                                 ]
