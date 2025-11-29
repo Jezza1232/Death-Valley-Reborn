@@ -72,7 +72,7 @@
                         {
                             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_3DView_v1.DU_View_3DView_v1_C",
                             "Props": {
-                                "StaticPath": "/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP.Dodo_Character_BP",
+                                "StaticPath": "/PA_EVO_Pack_03/Dinos/EVO_Therizino/Paleo/EVO_Paleo_Therizino_Character_BP.EVO_Paleo_Therizino_Character_BP_C",
                                 "PreviewWidth": 256,
                                 "PreviewHeight": 256,
                                 "Padding": [ 4, 4, 4, 4 ]
