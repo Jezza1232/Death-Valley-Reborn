@@ -1,0 +1,232 @@
+{
+    "Props": {
+        "Title": "$$Ark-Nucleus$:$INSTALLED_MODS_INFO_TITLE"
+    },
+    "UICache": {
+        "SaveFile": "Ark-Nucleus-Encyclopedia",
+        "Props": {
+            "DinoTamingFoodLvl": 150,
+            "LoadCachedDataOnGameStart": true,
+            "ScanForModItemsOnGameStart": false,
+            "LiveDataLoadMode": 0,
+            "Enable3DView": false,
+            "BaseInfoViewMode": true,
+            "SpawnUIViewMode": true,
+            "ImportData": "",
+            "IndexIgnoreList": "",
+            "CacheID": "123456789",
+            "CustomColors": {
+                "UseCustomColors": false,
+                "ItemColors": [
+                    { "Index": 0, "IsEnabled": false },
+                    { "Index": 0, "IsEnabled": false },
+                    { "Index": 0, "IsEnabled": false },
+                    { "Index": 0, "IsEnabled": false },
+                    { "Index": 0, "IsEnabled": false },
+                    { "Index": 0, "IsEnabled": false }
+                ],
+                "DinoColors": [
+                    { "Index": 0, "IsEnabled": false },
+                    { "Index": 0, "IsEnabled": false },
+                    { "Index": 0, "IsEnabled": false },
+                    { "Index": 0, "IsEnabled": false },
+                    { "Index": 0, "IsEnabled": false },
+                    { "Index": 0, "IsEnabled": false }
+                ]
+            }
+        }
+    },
+    "UIItems": [
+        {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_HorizontalBox_v1.DU_Panel_HorizontalBox_v1_C",
+            "Props": {
+                "Fill": 1
+            },
+            "UIItems": [
+                {
+                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_VerticalBox_v1.DU_Panel_VerticalBox_v1_C",
+                    "Props": {
+                        "Fill": 1,
+                        "Padding": [
+                            2,
+                            2,
+                            2,
+                            2
+                        ]
+                    },
+                    "UIItems": [
+                        {
+                            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Group_v1.DU_Panel_Group_v1_C",
+                            "Props": {
+                                "UUID": "EncyclopediaBaseInfo",
+                                "BindViewMode": "UICache.BaseInfoViewMode",
+                                "Title": "$$Ark-Nucleus$:$ENCYCLOPEDIA_ITEM_BASE_INFO",
+                                "Note": "$$Ark-Nucleus$:$ENCYCLOPEDIA_ITEM_BASE_INFO_NOTE",
+                                "Padding": [ 0, 0, 0, 2 ]
+                            },
+                            "UIItems": [
+                                {
+                                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/PreBuiltComps/DU_PreBuilt_ItemInfo_v1.DU_PreBuilt_ItemInfo_v1_C",
+                                    "Props": {
+                                        "Fill": 1,
+                                        "BindValue": "ItemData"
+                                    },
+                                    "ResetOnEvents": {
+                                        "Events": [
+                                            "Ark-Nucleus/NOTIFY/Encyclopedia/Selected"
+                                        ]
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Group_v1.DU_Panel_Group_v1_C",
+                            "Props": {
+                                "UUID": "EncyclopediaSpawn",
+                                "BindViewMode": "UICache.SpawnUIViewMode",
+                                "Title": "$$Ark-Nucleus$:$SPAWN_MENU",
+                                "Note": "$$Ark-Nucleus$:$SPAWN_MENU_NOTE"
+                            },
+                            "AccessPolicy": {
+                                "Tags": [
+                                    "Nucleus_SpawnDinos",
+                                    "Nucleus_SpawnItems"
+                                ]
+                            },
+                            "OptionalPostRequests": [
+                                {
+                                    "Name": "Ark-Nucleus/POST/Encyclopedia/SpawnByPlayer",
+                                    "RequestParams": [
+                                        {
+                                            "RequestKey": "BaseData",
+                                            "ValueKey": "ItemData"
+                                        },
+                                        {
+                                            "RequestKey": "SpawnConfig",
+                                            "ValueKey": "UICache.Dino"
+                                        },
+                                        {
+                                            "RequestKey": "ColorConfig",
+                                            "ValueKey": "UICache.CustomColors"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Name": "Ark-Nucleus/POST/Encyclopedia/SpawnCryo",
+                                    "RequestParams": [
+                                        {
+                                            "RequestKey": "BaseData",
+                                            "ValueKey": "ItemData"
+                                        },
+                                        {
+                                            "RequestKey": "SpawnConfig",
+                                            "ValueKey": "UICache.Dino"
+                                        },
+                                        {
+                                            "RequestKey": "ColorConfig",
+                                            "ValueKey": "UICache.CustomColors"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Name": "Ark-Nucleus/POST/Encyclopedia/SpawnItem",
+                                    "RequestParams": [
+                                        {
+                                            "RequestKey": "BaseData",
+                                            "ValueKey": "ItemData"
+                                        },
+                                        {
+                                            "RequestKey": "SpawnConfig",
+                                            "ValueKey": "UICache.Item"
+                                        },
+                                        {
+                                            "RequestKey": "ColorConfig",
+                                            "ValueKey": "UICache.CustomColors"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "UIItems": [
+                                {
+                                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/PreBuiltComps/DU_PreBuilt_Spawn_v1.DU_PreBuilt_Spawn_v1_C",
+                                    "Props": {
+                                        "Fill": 1,
+                                        "BindValue": "ItemData"
+                                    },
+                                    "UpdateOnEvents": {
+                                        "Events": [
+                                            "Ark-Nucleus/NOTIFY/Encyclopedia/Selected"
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Misc/DU_Misc_Line_v1.DU_Misc_Line_v1_C",
+                    "Props": {
+                        "Padding": [
+                            2,
+                            2,
+                            2,
+                            2
+                        ]
+                    }
+                },
+                {
+                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/PreBuiltComps/DU_PreBuilt_Advanced3DView_v1.DU_PreBuilt_Advanced3DView_v1_C",
+                    "Props": {
+                        "MinCollapsedWidth": 180,
+                        "Fill": 2,
+                        "BindUseFill": "UICache.Enable3DView",
+                        "BindUseCustomColors": "UICache.CustomColors.UseCustomColors",
+                        "BindDinoColors": "UICache.CustomColors.DinoColors",
+                        "BindItemColors": "UICache.CustomColors.ItemColors",
+                        "BindValue": "ItemData",
+                        "Padding": [
+                            2,
+                            2,
+                            2,
+                            2
+                        ]
+                    },
+                    "UpdateOnEvents": {
+                        "Events": [
+                            "Ark-Nucleus/NOTIFY/Encyclopedia/Selected",
+                            "Ark-Nucleus/UI/Advanced3DView/ColorChanged",
+                            "Ark-Nucleus/NOTIFY/3DViewChanged"
+                        ]
+                    },
+                    "3DViewConfig": {
+                        "3DConfig": {
+                            "BindUseCustomColors": "UICache.CustomColors.UseCustomColors",
+                            "BindDinoColors": "UICache.CustomColors.DinoColors",
+                            "BindItemColors": "UICache.CustomColors.ItemColors"
+                        }
+                    },
+                    "ColorRegionsUIConfig": {
+                        "Props": {
+                            "ItemKey": "Index",
+                            "BindValue": "ItemData.Index",
+                            "BindIsEnabled": "ItemData.IsEnabled",
+                            "BindIsVisible": "UICache.CustomColors.UseCustomColors",
+                            "BindUseDye": "Data.BP.IsDino"
+                        },
+                        "OnValueChanged": {
+                            "EventUID": "Ark-Nucleus/UI/Advanced3DView/ColorChanged"
+                        },
+                        "ItemWidget": {
+                            "Widget": "/Ark-Nucleus/SharedContent/Widgets/DropDownItems/DU_DDItem_ColorItem.DU_DDItem_ColorItem_C",
+                            "Props": {
+                                "BindLabel": "ItemData.Index",
+                                "BindNote": "ItemData.Name",
+                                "BindValue": "ItemData.Value"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

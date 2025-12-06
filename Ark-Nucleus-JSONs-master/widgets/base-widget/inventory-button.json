@@ -1,0 +1,10 @@
+{
+    "ToolTip":
+    {
+        "UUID": "Nucleus_ToolTip_InventoryButton",
+        "Props": {
+            "Text": "$$Ark-Nucleus$:$TOOLTIP_INVENTORY_BUTTON",
+            "FontSize": 10
+        }
+    }
+}
