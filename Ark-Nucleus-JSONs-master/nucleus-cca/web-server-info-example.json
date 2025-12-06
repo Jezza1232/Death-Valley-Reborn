@@ -1541,7 +1541,7 @@
                     {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Url_v1.DU_Panel_Url_v1_C",
                         "UIConfigRequest": {
-                            "Url": "https://raw.githubusercontent.com/Jezza1232/Death-Valley-Reborn/refs/heads/main/nucleus-info-ui.json",
+                            "Url": "https://raw.githubusercontent.com/Jezza1232/Death-Valley-Reborn/refs/heads/main/Ark-Nucleus-JSONs-master/nucleus-cca-basic/mod-ui/nucleus-info-ui.json",
                             "KeepCacheForXMinutes": 5,
                             "UUID": "Nucleus/TestDynamicUIConfig"
                         },
