@@ -557,7 +557,7 @@
                     {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                         "Props": {
-                            "Text": "we are editing this secion",
+                            "Text": "Death-Valley Lore FAQ",
                             "FontSize": 22,
                             "Justification": "Center",
                             "Color": [
@@ -593,7 +593,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "Q: What mods are installed on the server?",
+                                    "Text": "Q: How old is Death-Valley Reborn?",
                                     "FontSize": 16,
                                     "Padding": [
                                         5,
@@ -606,7 +606,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "A: We have carefully selected mods to enhance your gaming experience. You can find a list of installed mods by clicking the \"INSTALLED MODS\" on the left side menu.",
+                                    "Text": "A: Death-Valley started out life as a ASE server back in 2020, in 2023 Snailgames shutdown the offical ark network, our world fell along side the grate arks",
                                     "FontSize": 12,
                                     "Padding": [
                                         5,
@@ -619,7 +619,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "Q: How often is the server wiped?",
+                                    "Text": "Q: how did the blind one turn this ark?",
                                     "FontSize": 16,
                                     "Padding": [
                                         5,
@@ -632,7 +632,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "A: We aim to provide a stable and enjoyable gaming environment, so server wipes are infrequent. However, wipes may occur during major game updates or if necessary for maintenance purposes. We will notify players in advance if a wipe is scheduled.",
+                                    "Text": "A: The Blind One - Grunt was a 53 year old man who was 90% blind suffed 6 strokes and still found a way to tame this dangeres world, every beast, every trap, became a new way to learn, he became the beating heart of the Valley, his 8th stroke took him away",
                                     "FontSize": 12,
                                     "Padding": [
                                         5,
@@ -684,7 +684,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "A: If you encounter a player violating server rules, please report them to one of our moderators or admins. You can do this through the in-game chat, Discord server, or by using the \"SURVIVORS HUB\" on the left side menu. Be sure to provide as much detail as possible, including the player's name and a description of the incident.",
+                                    "Text": "A: If you encounter a player violating server rules, please report them to one of our moderators or admins. You can do this through the in-game chat taging 'admin' or, Discord server by using the \"Bobs-With-Probs\" on the left side menu. Be sure to provide as much detail as possible, including the player's name and a description of the incident.",
                                     "FontSize": 12,
                                     "Padding": [
                                         5,
@@ -723,7 +723,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "Q: Is there a Discord server for the community?",
+                                    "Text": "Q: Can i become a core part of the valley",
                                     "FontSize": 16,
                                     "Padding": [
                                         5,
@@ -736,7 +736,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "A: Yes, we have a Discord server where players can chat, share tips, and participate in events. You can find the link to our Discord server in the game's chat or on our server information page.",
+                                    "Text": "A: Yes, every survivor, every building that reaches to the sky, every dino you get build's a new core memory, we thrive on the past and turn pain into fire, and fire into fuel",
                                     "FontSize": 12,
                                     "Padding": [
                                         5,
