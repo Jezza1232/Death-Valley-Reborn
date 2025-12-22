@@ -1,4 +1,4 @@
-{
+er{
     "RequestUID": "Ark-Nucleus/WebUI",
     "UUID": "MyCoolNewServerInfoPage",
     "Data": {
@@ -1000,8 +1000,8 @@
             {
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_VerticalScrollBox_v1.DU_Panel_VerticalScrollBox_v1_C",
                 "Props": {
-                    "Title": "Example Widgets",
-                    "Note": "Some Page Notes",
+                    "Title": "Death-Valley Info",
+                    "Note": "DragonSouls Gaming",
                     "Fill": 1
                 },
                 "UIItems": [
