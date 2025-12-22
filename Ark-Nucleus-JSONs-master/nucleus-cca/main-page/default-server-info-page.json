@@ -6,10 +6,11 @@
                 "Fill": 1
             },
             "UIConfigRequest": {
-                "Url": "https://raw.githubusercontent.com/ArkNucleus/Ark-Nucleus-JSONs/master/nucleus-cca/web-server-info-example.json",
+                "Url": "https://raw.githubusercontent.com/Jezza1232/Death-Valley-Reborn/refs/heads/main/Ark-Nucleus-JSONs-master/nucleus-cca/web-server-info-example.json",
                 "KeepCacheForXMinutes": 10,
                 "UUID": "MyCoolNewServerInfoPage"
             }
         }
     ]
+
 }
