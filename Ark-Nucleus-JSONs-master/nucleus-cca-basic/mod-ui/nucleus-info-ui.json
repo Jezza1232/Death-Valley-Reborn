@@ -8,7 +8,7 @@
         {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
             "Props": {
-                "Text": "$$Ark-Nucleus$:$WELCOM_TO_NUCLEUS",
+                "Text": "$$Ark-Nucleus$:$WELCOM_TO_Death-Valley",
                 "FontSize": 32,
                 "Justification": "Center",
                 "Padding": [ 0, 0, 0, 20 ]
@@ -52,7 +52,7 @@
                         "Image": "/Ark-Nucleus/SharedContent/Textures/Icons/T_Nucleus_DiscordLogo.T_Nucleus_DiscordLogo"
                     },
                     "OnClickEvent": {
-                        "Url": "https://discord.gg/YD6jzCd"
+                        "Url": "https://discord.gg/8aeX4T9cp2"
                     }
                 }
             ]
@@ -124,4 +124,5 @@
             ]
         }
     ]
+
 }
