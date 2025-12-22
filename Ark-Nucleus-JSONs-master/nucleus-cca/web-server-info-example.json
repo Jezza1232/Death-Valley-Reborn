@@ -593,7 +593,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "Q: How old is Death-Valley Reborn?",
+                                    "Text": "Q: WHAT IS DEATH‑VALLEY?",
                                     "FontSize": 16,
                                     "Padding": [
                                         5,
@@ -606,7 +606,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "A: Death-Valley started out life as a ASE server back in 2020, in 2023 Snailgames shutdown the offical ark network, our world fell along side the grate arks",
+                                    "Text": "A: Death‑Valley began like any other Ark — a shard of a broken world drifting in the void, a place to survive, to build, to hope. But for those who found it, it became something more. When life outside offered no home, the Valley became one. A refuge. A promise. A world worth fighting for.",
                                     "FontSize": 12,
                                     "Padding": [
                                         5,
@@ -619,7 +619,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "Q: how did the blind one turn this ark?",
+                                    "Text": "Q: WHAT WAS THE AGE OF BUILDING",
                                     "FontSize": 16,
                                     "Padding": [
                                         5,
@@ -632,7 +632,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "A: The Blind One - Grunt was a 53 year old man who was 90% blind suffed 6 strokes and still found a way to tame this dangeres world, every beast, every trap, became a new way to learn, he became the beating heart of the Valley, his 8th stroke took him away",
+                                    "Text": "A: Beneath a sky of crystal light, We rose from nothing and claimed the night. Stone to iron, beasts to friends — Our tribes built homes the stars would defend. The First Builders walked among our lands, Teaching the ways with steady hands. For 9 long years the Arks would thrive, Under the watch of the Wildcards’ eye.",
                                     "FontSize": 12,
                                     "Padding": [
                                         5,
@@ -645,7 +645,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "Q: Are there any rules I need to follow?",
+                                    "Text": "Q: THE SHADOW NAMED SNAILGAMES",
                                     "FontSize": 16,
                                     "Padding": [
                                         5,
@@ -658,7 +658,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "A: Yes, we have a set of rules in place to ensure fair play and a positive community experience. These rules typically cover areas such as harassment, cheating, and griefing. You can find our server rules posted in the above \"Rules\" tab or in our Discord server.",
+                                    "Text": "A: But whispers crossed the distant seas, A name carried on a windswept breeze. SnailGames — the campfires cursed — A shadow that brought the dark clouds first. Their word was law, their hearts were cold, The fate of the Arks in their hands to hold. No council heard, no pleas could stay The night they chose to take it away.",
                                     "FontSize": 12,
                                     "Padding": [
                                         5,
@@ -671,7 +671,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "Q: How do I report a player for breaking the rules?",
+                                    "Text": "Q: THE GREAT FALL",
                                     "FontSize": 16,
                                     "Padding": [
                                         5,
@@ -684,7 +684,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "A: If you encounter a player violating server rules, please report them to one of our moderators or admins. You can do this through the in-game chat taging 'admin' or, Discord server by using the \"Bobs-With-Probs\" on the left side menu. Be sure to provide as much detail as possible, including the player's name and a description of the incident.",
+                                    "Text": "A: On the thirtieth day of the ninth year’s end, The sky grew silent, with no light to send. The towers dimmed, the beasts cried out, As tribes fell silent, their flames burned out. Worlds we built with love and pain Were gone in an instant — nothing remained.",
                                     "FontSize": 12,
                                     "Padding": [
                                         5,
@@ -697,7 +697,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "Q: Can I bring my friends to the server?",
+                                    "Text": "Q: THE FIRST BUILDERS STAND",
                                     "FontSize": 16,
                                     "Padding": [
                                         5,
@@ -710,7 +710,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "A: Absolutely! We encourage you to invite your friends to join our server and embark on adventures together. Just make sure they also adhere to our server rules to maintain a friendly gaming environment.",
+                                    "Text": "A: The First Builders wept beside our tribes; They fought with words, they fought with time. But SnailGames held the final key And cast the worlds into the sea. The gates were closed, the Arks would die, Our homes turned dust beneath the sky.",
                                     "FontSize": 12,
                                     "Padding": [
                                         5,
@@ -723,7 +723,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "Q: Can i become a core part of the valley",
+                                    "Text": "Q: THE CRYSTAL MEMORIES",
                                     "FontSize": 16,
                                     "Padding": [
                                         5,
@@ -736,7 +736,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "A: Yes, every survivor, every building that reaches to the sky, every dino you get build's a new core memory, we thrive on the past and turn pain into fire, and fire into fuel",
+                                    "Text": "A: We gathered the shards of what had been — The crystal memories of the worlds we’d seen. We carried them into the Ascended dawn, Though the heart of the old worlds was forever gone.",
                                     "FontSize": 12,
                                     "Padding": [
                                         5,
@@ -749,7 +749,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "Q: Can I suggest changes or improvements for the server?",
+                                    "Text": "Q: THE VOW OF THE SURVIVORS",
                                     "FontSize": 16,
                                     "Padding": [
                                         5,
@@ -762,7 +762,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "A: Absolutely! We value feedback from our community and are always open to suggestions for improving the server experience. Whether it's a mod recommendation, gameplay adjustment, or general feedback, we encourage players to share their ideas with us through our Discord server or other communication channels.",
+                                    "Text": "A: On the thirtieth day of the ninth year’s end, The tribes remember — the scars won’t mend. SnailGames took the worlds we knew, But the tribes will rise; we’ll start anew. For every beast, for every friend, We’ll build again — until the end.",
                                     "FontSize": 12,
                                     "Padding": [
                                         5,
