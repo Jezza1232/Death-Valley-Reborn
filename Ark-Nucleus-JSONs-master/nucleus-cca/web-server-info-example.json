@@ -819,7 +819,7 @@
                     {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                         "Props": {
-                            "Text": "THIS IS A DEMO PAGE!!!",
+                            "Text": "Rules For Death-Valley",
                             "FontSize": 24,
                             "Justification": "Center",
                             "Color": [
@@ -838,7 +838,7 @@
                     {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                         "Props": {
-                            "Text": "The listed Ruels and Guids are just an example until replaced by an admin with their own.",
+                            "Text": "The listed Ruels and Guids are just some of the rules listed in discord",
                             "FontSize": 22,
                             "Justification": "Center",
                             "Color": [
@@ -887,7 +887,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "2. Base Raiding: While PvP is encouraged, senseless destruction is not. Raiding is allowed, but don't wipe out entire bases. Leave something for your opponents to rebuild with.",
+                                    "Text": "2. PvP: PvP is welcomed, but raids are sacred battles, No base may be raided without the opponent’s consent in Discord, A raid is a clash of warriors — never a one‑sided siege.",
                                     "FontSize": 14,
                                     "Padding": [
                                         5,
@@ -900,7 +900,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "3. Cheating and Exploits: Any form of cheating, exploiting, or hacking will result in swift and severe consequences. We're here for fair play and a fun experience for everyone.",
+                                    "Text": "3. Cheating and Exploits: Respect is the law of the realm. All who walk these lands must treat one another with honor, Harassment, hate speech, and toxic conduct are forbidden and will be purged without mercy. We're here for fair play and a fun experience for everyone.",
                                     "FontSize": 14,
                                     "Padding": [
                                         5,
@@ -913,7 +913,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "4. Building Limits: Keep your structures reasonable in size to maintain server performance. Excessive building or pillar spamming is not allowed.",
+                                    "Text": "4. Let your structures rise with purpose: not greed. In the realm of Death-Valley, the land itself is sacred. Overgrown fortresses, reckless sprawl, and pillar corruption are forbidden, for they choke the world and weaken the flow of its power. Build with intention, and the realm will honor you.",
                                     "FontSize": 14,
                                     "Padding": [
                                         5,
@@ -926,7 +926,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "5. Wildlife Conservation: Avoid unnecessary killing of passive tames and wildlife. Let's strive for ecological balance on the Ark.",
+                                    "Text": "5. Fair Play Edict: Creatures under taming are sacred. No member may harm or slay a beast in the midst of bonding. Honor the ritual or face the consequences.",
                                     "FontSize": 14,
                                     "Padding": [
                                         5,
@@ -961,6 +961,19 @@
                                         5
                                     ]
                                 }
+                            },
+							{
+                                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                                "Props": {
+                                    "Text": "8. Let it be known: Those who twist the world through cheats, exploits, or forbidden tools break the sacred balance. Such actions will be met with immediate judgment. This realm thrives on fair combat and true challenge.",
+                                    "FontSize": 14,
+                                    "Padding": [
+                                        5,
+                                        5,
+                                        5,
+                                        5
+                                    ]
+                                }
                             }
                         ]
                     }
@@ -977,7 +990,7 @@
                     {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                         "Props": {
-                            "Text": "Welcome to [Server Name] - Your Ultimate Ark: Survival Ascended Adventure!",
+                            "Text": "Welcome to Death-Valley Reborn - Your Ultimate Ark Adventure!",
                             "FontSize": 28,
                             "Justification": "Center",
                             "Padding": [
