@@ -762,7 +762,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "A: On the thirtieth day of the ninth year’s end, The tribes remember — the scars won’t mend. SnailGames took the worlds we knew, But the tribes will rise; we’ll start anew. For every beast, for every friend, We’ll build again — until the end.",
+                                    "Text": "A: On the thirtieth day of the ninth year’s end, The tribes remember — the scars won’t mend. SnailGames took the worlds we knew, But the tribes will rise; we’ll start anew. For every beast, for every friend, We’ll build again — until the very end.",
                                     "FontSize": 12,
                                     "Padding": [
                                         5,
