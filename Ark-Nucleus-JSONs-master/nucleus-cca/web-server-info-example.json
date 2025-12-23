@@ -247,7 +247,7 @@
                                                     {
                                                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                                         "Props": {
-                                                            "Text": "A: Just a demo server info page provided my the Ark-Nucleus mod.",
+                                                            "Text": "A: Just a demo server info page provided by the Ark-Nucleus mod.",
                                                             "FontSize": 11,
                                                             "Justification": "Center",
                                                             "Fill": 1,
@@ -886,7 +886,7 @@
                     {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                         "Props": {
-                            "Text": "The listed Ruels and Guids are just some of the rules listed in discord",
+                            "Text": "The listed Ruels and Guides are just some of the rules listed in discord",
                             "FontSize": 22,
                             "Justification": "Center",
                             "Color": [
