@@ -67,8 +67,8 @@
                                             {
                                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                                 "Props": {
-                                                    "Text": "$$SERVER$:$WELCOME_TO_SERVER",
-													"Note": "Welcome to Death-Valley Reborn",
+                                                    "Text": "$$SERVER$:$WELCOME_TO_Death-Valley",
+                                                    "Note": "Welcome to Death-Valley Reborn",
                                                     "FontSize": 32,
                                                     "Padding": [
                                                         5,
@@ -94,6 +94,36 @@
                                             {
                                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_HorizontalBox_v1.DU_Panel_HorizontalBox_v1_C",
                                                 "UIItems": [
+                                                    {
+                                                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
+                                                        "Props": {
+                                                            "Label": "Raasclark - YouTube",
+                                                            "Padding": [
+                                                                5,
+                                                                5,
+                                                                5,
+                                                                5
+                                                            ]
+                                                        },
+                                                        "OnClickEvent": {
+                                                            "Url": "https://www.youtube.com/@Raasclark"
+                                                        }
+                                                    },
+                                                    {
+                                                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
+                                                        "Props": {
+                                                            "Label": "Isa - YouTube",
+                                                            "Padding": [
+                                                                5,
+                                                                5,
+                                                                5,
+                                                                5
+                                                            ]
+                                                        },
+                                                        "OnClickEvent": {
+                                                            "Url": "https://www.youtube.com/@Isaboe"
+                                                        }
+                                                    },
                                                     {
                                                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
                                                         "Props": {
