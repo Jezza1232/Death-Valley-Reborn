@@ -1008,7 +1008,7 @@
                     {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                         "Props": {
-                            "Text": "Welcome to Death-Valley Reborn - Your Ultimate Ark Adventure!",
+                            "Text": "Death‑Valley Reborn — Memory and Resolve",
                             "FontSize": 28,
                             "Justification": "Center",
                             "Padding": [
@@ -1022,554 +1022,304 @@
                     {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                         "Props": {
-                            "Text": "Greetings, Survivors! Step into a world of untamed wilderness, colossal dinosaurs, and epic adventures on our Ark: Survival Ascended game server.",
-                            "FontSize": 15,
+                            "Text": "These pieces tell the history of Death‑Valley — its rise, its fall, the names we remember, and the vow we keep.",
+                            "FontSize": 16,
                             "Padding": [
                                 0,
                                 0,
                                 0,
-                                10
+                                16
                             ]
                         }
                     },
                     {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                         "Props": {
-                            "Text": "We've created a thriving community where players can forge alliances, face formidable challenges, and build their own Jurassic legacy.",
-                            "FontSize": 15,
+                            "Text": "The Age of Building\nBeneath the sky of crystal light,\nWe rose from nothing, we claimed the night.\nStone to iron, beasts to friends,\nOur tribes had homes the stars would defend.\nThe First Builders walked among our lands,\nTeaching the ways with guiding hands.\nTen long years, the Arks would thrive,\nUnder the watch of the Obelisks’ eye.",
+                            "FontSize": 14,
                             "Padding": [
-                                0,
-                                0,
-                                0,
-                                10
+                                4,
+                                4,
+                                4,
+                                8
                             ]
                         }
                     },
                     {
-                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Border_v1.DU_Panel_Border_v1_C",
-                        "Props": {
-                            "Padding": [
-                                0,
-                                0,
-                                0,
-                                10
-                            ],
-                            "Color": [
-                                1,
-                                1,
-                                0,
-                                1
-                            ]
-                        },
-                        "UIItems": [
-                            {
-                                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-                                "Props": {
-                                    "Text": "This is an EXAMPLE Page provided my Nucleus. As a Server Admin you can fully customize this page with custom text, images, widgets and additional pages.",
-                                    "FontSize": 15,
-                                    "Justification": "Center",
-                                    "Padding": [
-                                        5,
-                                        5,
-                                        5,
-                                        5
-                                    ]
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Border_v1.DU_Panel_Border_v1_C",
-                        "Props": {
-                            "Padding": [
-                                0,
-                                0,
-                                0,
-                                10
-                            ],
-                            "Color": [
-                                1,
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        "UIItems": [
-                            {
-                                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-                                "Props": {
-                                    "Text": "It can be used to make things stand out by using the Color Property with a RGB/RGBA value formatted as an array [R,G,B,A] (RED color -> [1.0,0,0,1]).",
-                                    "FontSize": 15,
-                                    "Justification": "Center",
-                                    "Padding": [
-                                        5,
-                                        5,
-                                        5,
-                                        5
-                                    ]
-                                }
-                            }
-                        ]
-                    },
-                    {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                         "Props": {
-                            "Text": "Some other examples of controls and widgets available for use.",
-                            "FontSize": 18,
-                            "Color": [
-                                0,
-                                0.5,
-                                1,
-                                1
-                            ],
+                            "Text": "The Shadow Named SnailGames\nBut whispers came across the seas,\nA name was spoken on the windswept breeze.\nSnailGames… the campfires cursed,\nA name that brought the dark clouds first.\nTheir word was law, their hearts were cold,\nThe fate of the Arks in their hands to hold.\nNo council heard, no pleas could stay,\nThe night they chose to take it away.",
+                            "FontSize": 14,
                             "Padding": [
-                                0,
-                                0,
-                                0,
-                                10
+                                4,
+                                4,
+                                4,
+                                8
                             ]
                         }
                     },
                     {
-                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Border_v1.DU_Panel_Border_v1_C",
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                         "Props": {
+                            "Text": "The Great Fall\nOn the thirtieth day of the ninth year’s end,\nThe sky grew silent, no light to send.\nThe towers dimmed, the beasts cried out,\nAs tribes fell silent, their flames burned out.\nWorlds we built with love and pain,\nGone in an instant, nothing remained.",
+                            "FontSize": 14,
                             "Padding": [
-                                0,
-                                0,
-                                0,
-                                10
+                                4,
+                                4,
+                                4,
+                                8
                             ]
-                        },
-                        "UIItems": [
-                            {
-                                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-                                "Props": {
-                                    "Text": "This is a Border widget, use this if you whish to have some elements stand more out by adding a border around it.",
-                                    "FontSize": 15,
-                                    "Padding": [
-                                        5,
-                                        5,
-                                        5,
-                                        5
-                                    ]
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Border_v1.DU_Panel_Border_v1_C",
-                        "Props": {
-                            "Padding": [
-                                0,
-                                0,
-                                0,
-                                10
-                            ],
-                            "Color": [
-                                1,
-                                1,
-                                1,
-                                0.5
-                            ]
-                        },
-                        "UIItems": [
-                            {
-                                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_HorizontalBox_v1.DU_Panel_HorizontalBox_v1_C",
-                                "UIItems": [
-                                    {
-                                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Border_v1.DU_Panel_Border_v1_C",
-                                        "Props": {
-                                            "Fill": 2,
-                                            "Padding": [
-                                                5,
-                                                5,
-                                                5,
-                                                5
-                                            ]
-                                        },
-                                        "UIItems": [
-                                            {
-                                                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-                                                "Props": {
-                                                    "Text": "A horizontal box split with two bordered items split into a 2:1 width ratio using the \"Fill\" property.",
-                                                    "FontSize": 15,
-                                                    "Padding": [
-                                                        5,
-                                                        5,
-                                                        5,
-                                                        5
-                                                    ]
-                                                }
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Border_v1.DU_Panel_Border_v1_C",
-                                        "Props": {
-                                            "Fill": 1,
-                                            "Padding": [
-                                                5,
-                                                5,
-                                                5,
-                                                5
-                                            ]
-                                        },
-                                        "UIItems": [
-                                            {
-                                                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-                                                "Props": {
-                                                    "Text": "This Border box has text and a Discord Button.",
-                                                    "FontSize": 15,
-                                                    "Padding": [
-                                                        0,
-                                                        0,
-                                                        0,
-                                                        10
-                                                    ]
-                                                }
-                                            },
-                                            {
-                                                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
-                                                "Props": {
-                                                    "Label": "Discord Button",
-                                                    "Image": "/Ark-Nucleus/SharedContent/Textures/Icons/T_Nucleus_DiscordLogo.T_Nucleus_DiscordLogo",
-                                                    "Padding": [
-                                                        5,
-                                                        5,
-                                                        5,
-                                                        5
-                                                    ]
-                                                },
-                                                "OnClickEvent": {
-                                                    "Url": "https://discord.gg/"
-                                                }
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Group_v1.DU_Panel_Group_v1_C",
-                        "Props": {
-                            "Title": "This is a Group Panel",
-                            "Note": "A Group Panel that can be used to group a set of information and have it collapsed for better space usage.",
-                            "BindViewMode": "UICache.FirstGroup.ViewMode",
-                            "Padding": [
-                                0,
-                                0,
-                                0,
-                                10
-                            ]
-                        },
-                        "UIItems": [
-                            {
-                                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-                                "Props": {
-                                    "Text": "Some random text.",
-                                    "FontSize": 15
-                                }
-                            }
-                        ]
+                        }
                     },
                     {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                         "Props": {
-                            "Text": "You can have unlimited number of pages by adding the Tabbed Panel",
+                            "Text": "The First Builders Stand\nThe First Builders wept beside our tribes,\nThey fought with words, they fought with time.\nBut SnailGames held the final key,\nAnd cast the worlds into the sea.\nThe gates were closed, the Arks would die,\nOur homes now dust beneath the sky.",
+                            "FontSize": 14,
+                            "Padding": [
+                                4,
+                                4,
+                                4,
+                                8
+                            ]
+                        }
+                    },
+                    {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                        "Props": {
+                            "Text": "The Crystal Memories\nWe gathered the shards of what had been,\nThe Crystal Memories of the worlds we’d seen.\nCarried them into the Ascended dawn,\nBut the heart of the old worlds was forever gone.",
+                            "FontSize": 14,
+                            "Padding": [
+                                4,
+                                4,
+                                4,
+                                8
+                            ]
+                        }
+                    },
+                    {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                        "Props": {
+                            "Text": "The Vow of the Survivors\nOn the thirtieth day of the ninth year’s end,\nThe tribes remember, the scars won’t mend.\nSnailGames took the worlds we knew,\nBut the tribes will rise, we’ll start anew.\nFor every beast, for every friend,\nWe’ll build again, till the very end.",
+                            "FontSize": 14,
+                            "Padding": [
+                                4,
+                                4,
+                                4,
+                                18
+                            ]
+                        }
+                    },
+                    {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                        "Props": {
+                            "Text": "A Personal Lament and Promise",
                             "FontSize": 20,
-                            "Padding": [
-                                5,
-                                5,
-                                5,
-                                5
-                            ],
-                            "Justification": "Center"
-                        }
-                    },
-                    {
-                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Tabbed_v1.DU_Panel_Tabbed_v1_C",
-                        "Props": {
-                            "UUID": "SecondTab"
-                        },
-                        "Tabs": [
-                            {
-                                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
-                                "Props": {
-                                    "Title": "A Tab Page",
-                                    "Note": "Some Tab Page Notes",
-                                    "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
-                                    "Fill": 1
-                                },
-                                "UIItems": [
-                                    {
-                                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-                                        "Props": {
-                                            "Text": "Any content can be placed inside (even nested tabs)!",
-                                            "FontSize": 15,
-                                            "Padding": [
-                                                5,
-                                                5,
-                                                5,
-                                                5
-                                            ]
-                                        }
-                                    },
-                                    {
-                                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Tabbed_v1.DU_Panel_Tabbed_v1_C",
-                                        "Props": {
-                                            "UUID": "ThirdTab",
-                                            "Padding": [
-                                                10,
-                                                10,
-                                                10,
-                                                10
-                                            ]
-                                        },
-                                        "Tabs": [
-                                            {
-                                                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
-                                                "Props": {
-                                                    "Title": "A Tab Page 1",
-                                                    "Note": "Some Tab Page Notes",
-                                                    "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
-                                                    "Fill": 1
-                                                },
-                                                "UIItems": [
-                                                    {
-                                                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_HorizontalBox_v1.DU_Panel_HorizontalBox_v1_C",
-                                                        "Props": {
-                                                            "Padding": [
-                                                                0,
-                                                                0,
-                                                                0,
-                                                                10
-                                                            ]
-                                                        },
-                                                        "UIItems": [
-                                                            {
-                                                                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_VerticalBox_v1.DU_Panel_VerticalBox_v1_C",
-                                                                "Props": {
-                                                                    "Fill": 1
-                                                                },
-                                                                "UIItems": [
-                                                                    {
-                                                                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_Image_v1.DU_View_Image_v1_C",
-                                                                        "Props": {
-                                                                            "Width": 700,
-                                                                            "Height": 464,
-                                                                            "Padding": [
-                                                                                10,
-                                                                                10,
-                                                                                10,
-                                                                                10
-                                                                            ],
-                                                                            "Image": "https://static.wikia.nocookie.net/ark-survival-evolved/images/1/12/Therizinosaur_Dossier.jpg/revision/latest/scale-to-width-down/1000?cb=20150908134516"
-                                                                        }
-                                                                    },
-                                                                    {
-                                                                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-                                                                        "Props": {
-                                                                            "Text": "Caption for a picture",
-                                                                            "Justification": "Center",
-                                                                            "FontSize": 14
-                                                                        }
-                                                                    }
-                                                                ]
-                                                            },
-                                                            {
-                                                                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_VerticalBox_v1.DU_Panel_VerticalBox_v1_C",
-                                                                "Props": {
-                                                                    "Fill": 1
-                                                                },
-                                                                "UIItems": [
-                                                                    {
-                                                                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_Image_v1.DU_View_Image_v1_C",
-                                                                        "Props": {
-                                                                            "Width": 700,
-                                                                            "Height": 464,
-                                                                            "Padding": [
-                                                                                10,
-                                                                                10,
-                                                                                10,
-                                                                                10
-                                                                            ],
-                                                                            "Image": "https://static.wikia.nocookie.net/ark-survival-evolved/images/e/e5/Baryonyx_Dossier.jpg/revision/latest/scale-to-width-down/1000?cb=20150815042723"
-                                                                        }
-                                                                    },
-                                                                    {
-                                                                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-                                                                        "Props": {
-                                                                            "Text": "Caption for a picture",
-                                                                            "Justification": "Center",
-                                                                            "FontSize": 14
-                                                                        }
-                                                                    }
-                                                                ]
-                                                            }
-                                                        ]
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
-                                                "Props": {
-                                                    "Title": "A Tab Page 2",
-                                                    "Note": "Some Tab Page Notes",
-                                                    "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
-                                                    "Fill": 1
-                                                },
-                                                "UIItems": [
-                                                    {
-                                                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-                                                        "Props": {
-                                                            "Text": "Any content can be placed inside!",
-                                                            "FontSize": 15,
-                                                            "Padding": [
-                                                                5,
-                                                                5,
-                                                                5,
-                                                                5
-                                                            ]
-                                                        }
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
-                                                "Props": {
-                                                    "Title": "A Tab Page 3",
-                                                    "Note": "Some Tab Page Notes",
-                                                    "Icon": "/Game/PrimalEarth/UI/Inventory/Textures/IconToolTip.IconToolTip",
-                                                    "Fill": 1
-                                                },
-                                                "UIItems": [
-                                                    {
-                                                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-                                                        "Props": {
-                                                            "Text": "Any content can be placed inside!",
-                                                            "FontSize": 15,
-                                                            "Padding": [
-                                                                5,
-                                                                5,
-                                                                5,
-                                                                5
-                                                            ]
-                                                        }
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
-                                "Props": {
-                                    "Title": "Getting Started",
-                                    "Note": "Direct your players to the right Discord channels!",
-                                    "Fill": 1
-                                },
-                                "Info": {
-                                    "Props": {
-                                        "Title": "Some Extra Information"
-                                    },
-                                    "UIItems": [
-                                        {
-                                            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_VerticalBox_v1.DU_Panel_VerticalBox_v1_C",
-                                            "Props": {
-                                                "Fill": 1
-                                            },
-                                            "UIItems": [
-                                                {
-                                                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-                                                    "Props": {
-                                                        "Text": "Some additional information's can be added to Categories, Groups and other by providing the \"Info\" parameter which will generate an INFO button.",
-                                                        "FontSize": 15,
-                                                        "Fill": 1,
-                                                        "Padding": [
-                                                            5,
-                                                            5,
-                                                            5,
-                                                            5
-                                                        ]
-                                                    }
-                                                }
-                                            ]
-                                        },
-                                        {
-                                            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
-                                            "Props": {
-                                                "Label": "_OK_",
-                                                "Padding": [
-                                                    5,
-                                                    5,
-                                                    5,
-                                                    5
-                                                ]
-                                            },
-                                            "OnClickEvent": {
-                                                "EventUID": "CloseModal"
-                                            }
-                                        }
-                                    ]
-                                },
-                                "UIItems": [
-                                    {
-                                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-                                        "Props": {
-                                            "Text": "New to Ark? Check out our newbie guide in the Discord for tips on surviving your first days.",
-                                            "FontSize": 14,
-                                            "Padding": [
-                                                4,
-                                                4,
-                                                4,
-                                                4
-                                            ]
-                                        }
-                                    },
-                                    {
-                                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
-                                        "Props": {
-                                            "Label": "Discord Button",
-                                            "Image": "/Ark-Nucleus/SharedContent/Textures/Icons/T_Nucleus_DiscordLogo.T_Nucleus_DiscordLogo"
-                                        },
-                                        "OnClickEvent": {
-                                            "Url": "https://discord.gg/"
-                                        }
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_VerticalScrollBox_v1.DU_Panel_VerticalScrollBox_v1_C",
-                "Props": {
-                    "Title": "Web Url Widget",
-                    "Note": "The Url Widget makes it easy to host the JSON widget somewhere on the web and reuse it on multiple server or edit it without the need to joining the game.",
-                    "Fill": 1
-                },
-                "UIItems": [
-                    {
-                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Url_v1.DU_Panel_Url_v1_C",
-                        "UIConfigRequest": {
-                            "Url": "https://raw.githubusercontent.com/Jezza1232/Death-Valley-Reborn/refs/heads/main/Ark-Nucleus-JSONs-master/nucleus-cca-basic/mod-ui/nucleus-info-ui.json",
-                            "KeepCacheForXMinutes": 5,
-                            "UUID": "Nucleus/TestDynamicUIConfig"
-                        },
-                        "Props": {
                             "Justification": "Center",
                             "Padding": [
                                 0,
                                 0,
                                 0,
-                                20
+                                12
+                            ]
+                        }
+                    },
+                    {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                        "Props": {
+                            "Text": "Five years ago, no map, no star,\nCamper walls, life felt far.\nA friend said, “Come, I’ll show you a land,”\nWhere dinos roam and dreams can stand.\nI built with my partner, my friends by my side,\nDeath Valley rose, our kingdom, our pride.",
+                            "FontSize": 14,
+                            "Padding": [
+                                4,
+                                4,
+                                4,
+                                8
+                            ]
+                        }
+                    },
+                    {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                        "Props": {
+                            "Text": "Chorus\nDeath Valley, you carried me through,\nWhen the nights were cold, I still had you.\nStone by stone, beast by beast,\nIn your arms, my soul found peace.",
+                            "FontSize": 14,
+                            "Padding": [
+                                4,
+                                4,
+                                4,
+                                8
+                            ]
+                        }
+                    },
+                    {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                        "Props": {
+                            "Text": "Then came the fall, the sky turned black,\nSnail Games struck, no turning back.\nLike a thousand arrows raining down,\nOur world was gone, burned to the ground.\nBut ASA’s light broke through the shade,\nWe swore to rebuild, a new home made.",
+                            "FontSize": 14,
+                            "Padding": [
+                                4,
+                                4,
+                                4,
+                                8
+                            ]
+                        }
+                    },
+                    {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                        "Props": {
+                            "Text": "Richard Arrives\nThen Richard came, almost blind,\nBut saw more than most could find.\nSeventy-five inches of screen lit his way,\nLearning to fight, to build, to stay.\nThrough traps, through beasts, he never quit,\nEvery wall he placed had love in it.\nHe showed us home was more than land,\nIt’s the people who build it, hand in hand.",
+                            "FontSize": 14,
+                            "Padding": [
+                                4,
+                                4,
+                                4,
+                                8
+                            ]
+                        }
+                    },
+                    {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                        "Props": {
+                            "Text": "The Last Log Out (soft)\nOne night he logged out, 2:55,\nCoffee on the table, but not alive.\nHis eighth stroke took him from our side,\nAnd Death Valley went quiet inside.",
+                            "FontSize": 14,
+                            "Padding": [
+                                4,
+                                4,
+                                4,
+                                8
+                            ]
+                        }
+                    },
+                    {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                        "Props": {
+                            "Text": "Legacy\nWe saved the world he helped create,\nBut I drifted, lost in grief’s weight.\nThen Raasclark’s voice, and Isa’s call,\nDragon’s tribe — they gave me it all.\nWe fought bosses, we claimed the land,\nTogether we stood, hand in hand.",
+                            "FontSize": 14,
+                            "Padding": [
+                                4,
+                                4,
+                                4,
+                                8
+                            ]
+                        }
+                    },
+                    {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                        "Props": {
+                            "Text": "Final Chorus\nDeath Valley, you carried me through,\nWhen I thought I was lost, I still had you.\nRichard’s dream still burns in the skies,\nEvery sunrise in ARK is his eyes.\nI searched the world for where I belong,\nIt was here with my tribe all along.",
+                            "FontSize": 14,
+                            "Padding": [
+                                4,
+                                4,
+                                4,
+                                12
+                            ]
+                        }
+                    },
+                    {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                        "Props": {
+                            "Text": "Outro\nHome isn’t stone, it’s the love you find,\nThe ones who stay, the ties that bind.\nDeath Valley lives — in every song,\nMy home, my heart, all along.",
+                            "FontSize": 14,
+                            "Padding": [
+                                4,
+                                4,
+                                4,
+                                18
+                            ]
+                        }
+                    },
+                    {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                        "Props": {
+                            "Text": "Community Links",
+                            "FontSize": 18,
+                            "Justification": "Center",
+                            "Padding": [
+                                0,
+                                0,
+                                0,
+                                8
+                            ]
+                        }
+                    },
+                    {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_HorizontalBox_v1.DU_Panel_HorizontalBox_v1_C",
+                        "UIItems": [
+                            {
+                                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
+                                "Props": {
+                                    "Label": "Raasclark - YouTube",
+                                    "Padding": [
+                                        5,
+                                        5,
+                                        5,
+                                        5
+                                    ]
+                                },
+                                "OnClickEvent": {
+                                    "Url": "https://www.youtube.com/@Raasclark"
+                                }
+                            },
+                            {
+                                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
+                                "Props": {
+                                    "Label": "Isa - YouTube",
+                                    "Padding": [
+                                        5,
+                                        5,
+                                        5,
+                                        5
+                                    ]
+                                },
+                                "OnClickEvent": {
+                                    "Url": "https://www.youtube.com/@Isaboe"
+                                }
+                            },
+                            {
+                                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
+                                "Props": {
+                                    "Label": "DragonSouls Gaming - YouTube",
+                                    "Padding": [
+                                        5,
+                                        5,
+                                        5,
+                                        5
+                                    ]
+                                },
+                                "OnClickEvent": {
+                                    "Url": "https://www.youtube.com/@dragonsoulsgaming"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+                        "Props": {
+                            "Text": "If you want this page shortened, split into separate tabs, or further edited, tell me and I will generate the exact replacement block.",
+                            "FontSize": 13,
+                            "Justification": "Center",
+                            "Padding": [
+                                6,
+                                6,
+                                6,
+                                6
                             ]
                         }
                     }
                 ]
+            },
+            {
+                "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Url_v1.DU_Panel_Url_v1_C",
+                "Props": {
+                    "Title": "Web Url Widget",
+                    "Note": "The Url Widget makes it easy to host the JSON widget somewhere on the web and reuse it on multiple server or edit it without the need to joining the game.",
+                    "Fill": 1
+                },
+                "UIConfigRequest": {
+                    "Url": "https://raw.githubusercontent.com/Jezza1232/Death-Valley-Reborn/refs/heads/main/Ark-Nucleus-JSONs-master/nucleus-cca-basic/mod-ui/nucleus-info-ui.json",
+                    "KeepCacheForXMinutes": 5,
+                    "UUID": "Nucleus/TestDynamicUIConfig"
+                }
             }
         ]
     }
