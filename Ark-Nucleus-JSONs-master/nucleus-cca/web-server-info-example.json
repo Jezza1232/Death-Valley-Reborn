@@ -1140,7 +1140,7 @@
                     {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                         "Props": {
-                            "Text": "Chorus\nDeath Valley, you carried me through,\nWhen the nights were cold, I still had you.\nStone by stone, beast by beast,\nIn your arms, my soul found peace.",
+                            "Text": "\nDeath Valley, you carried me through,\nWhen the nights were cold, I still had you.\nStone by stone, beast by beast,\nIn your arms, my soul found peace.",
                             "FontSize": 14,
                             "Padding": [
                                 4,
@@ -1179,7 +1179,7 @@
                     {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                         "Props": {
-                            "Text": "The Last Log Out (soft)\nOne night he logged out, 2:55,\nCoffee on the table, but not alive.\nHis eighth stroke took him from our side,\nAnd Death Valley went quiet inside.",
+                            "Text": "The Last Log Out \nOne night he logged out, 2:55,\nCoffee on the table, but not alive.\nHis eighth stroke took him from our side,\nAnd Death Valley went quiet inside.",
                             "FontSize": 14,
                             "Padding": [
                                 4,
@@ -1192,7 +1192,7 @@
                     {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                         "Props": {
-                            "Text": "Legacy\nWe saved the world he helped create,\nBut I drifted, lost in grief’s weight.\nThen Raasclark’s voice, and Isa’s call,\nDragon’s tribe — they gave me it all.\nWe fought bosses, we claimed the land,\nTogether we stood, hand in hand.",
+                            "Text": "\nWe saved the world he helped create,\nBut I drifted, lost in grief’s weight.\nThen Raasclark’s voice, and Isa’s call,\nDragon’s tribe — they gave me it all.\nWe fought bosses, we claimed the land,\nTogether we stood, hand in hand.",
                             "FontSize": 14,
                             "Padding": [
                                 4,
@@ -1205,7 +1205,7 @@
                     {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                         "Props": {
-                            "Text": "Final Chorus\nDeath Valley, you carried me through,\nWhen I thought I was lost, I still had you.\nRichard’s dream still burns in the skies,\nEvery sunrise in ARK is his eyes.\nI searched the world for where I belong,\nIt was here with my tribe all along.",
+                            "Text": "\nDeath Valley, you carried me through,\nWhen I thought I was lost, I still had you.\nRichard’s dream still burns in the skies,\nEvery sunrise in ARK is his eyes.\nI searched the world for where I belong,\nIt was here with my tribe all along.",
                             "FontSize": 14,
                             "Padding": [
                                 4,
@@ -1218,7 +1218,7 @@
                     {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                         "Props": {
-                            "Text": "Outro\nHome isn’t stone, it’s the love you find,\nThe ones who stay, the ties that bind.\nDeath Valley lives — in every song,\nMy home, my heart, all along.",
+                            "Text": "\nHome isn’t stone, it’s the love you find,\nThe ones who stay, the ties that bind.\nDeath Valley lives — in every song,\nMy home, my heart, all along.",
                             "FontSize": 14,
                             "Padding": [
                                 4,
